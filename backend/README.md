@@ -7,3 +7,4 @@
 4) yarn build
 5) yarn start:prod
 ```
+[front](https://github.com/Amazaev77/online-cinema/tree/main/front)
