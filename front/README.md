@@ -10,5 +10,6 @@
   
 2) cd front 
 3) yarn
-4) yarn start
+4) yarn build
+5) yarn start
 ```
